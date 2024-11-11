@@ -1,5 +1,5 @@
 # Sarkari-Result-Clone
-Its a Clone of Sarkari Result Website by using HTML, CSS, JS .
+Its a Clone of Sarkari Result Website by using HTML, CSS.
 It's the clone of Sarkari Result Website and it is fully in Working condition but it's not the original one .
 You can even check the website is working properly or not.
 Its created by using HTML and CSS only.
